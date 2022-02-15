@@ -5,6 +5,6 @@
    - Criar uma API JavaScript
    - Trabalhar com integração de diversos arquivos JavaScript
    - Manipular o DOM
-   - Manupular JSON
+   - Manipular JSON
    - Criar armazenamento em LocalStorage
    - Manipular LocalStorage
