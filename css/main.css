@@ -1,8 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background: #022534;
+}
+
 .kanban {
     display: flex;
     padding: 30px;
     width: 750px;
-    background: #009578;
+    background: #2d7a9c;
     border-radius: 5px;
 }
 
@@ -21,14 +30,14 @@
 .kanban__column-title {
     margin-bottom: 20px;
     font-size: 30px;
-    color: white;
+    color: #e4f5ff;
     user-select: none;
 }
 
 .kanban__item-input {
     padding: 10px 15px;
     box-sizing: border-box;
-    background: white;
+    background: #e4f5ff;
     border-radius: 5px;
     cursor: pointer;
 }
@@ -47,7 +56,7 @@
     width: 100%;
     padding: 10px 0;
     font-size: 16px;
-    color: white;
+    color: #e4f5ff;
     background: rgba(0, 0, 0, 0.1);
     border: none;
     border-radius: 5px;
